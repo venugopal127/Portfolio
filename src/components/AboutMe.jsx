@@ -48,7 +48,7 @@ export const AboutMe = () => {
                 </div>
 
                 <div className='bg-card rounded-lg overflow-hidden shadow-xs card-hover flex justify-center'>
-                    <img className='h-100 overflow-hidden object-cover' src="src/assets/cropped-image.png" alt="" />
+                    <img className='h-100 overflow-hidden object-cover' src="/Images/cropped-image.png" alt="" />
                 </div>
             </div>
         </div>

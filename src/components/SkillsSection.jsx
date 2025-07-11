@@ -5,25 +5,25 @@ import 'aos/dist/aos.css';
 import { useEffect } from 'react';
 
 const skills = [
-    {name: "HTML", level: 95, category: "frontend", logo: "src/assets/html-5_5968267.png"},
-    {name: "CSS", level: 95, category: "frontend", logo: "src/assets/css-3_5968242.png"},
-    {name: "Javascript", level: 95, category: "frontend", logo: "src/assets/js_5968292.png"},
-    {name: "React", level: 90, category: "frontend", logo: "src/assets/molecule_10285707.png"},
-    {name: "Redux", level: 70, category: "frontend", logo: "src/assets/Redux.png"},
-    {name: "Next.js", level: 70, category: "frontend", logo: "src/assets/icons8-next.js-144.png"},
-    {name: "Tailwind CSS", level: 90, category: "frontend", logo: "src/assets/Tailwind CSS.png"},
-    {name: "Typescript", level: 70, category: "frontend", logo: "src/assets/typescript_5968381.png"},
-    {name: "Vite", level: 80, category: "frontend", logo: "src/assets/Vite.js.png"},
+    {name: "HTML", level: 95, category: "frontend", logo: "/Images/html-5_5968267.png"},
+    {name: "CSS", level: 95, category: "frontend", logo: "/Images/css-3_5968242.png"},
+    {name: "Javascript", level: 95, category: "frontend", logo: "/Images/js_5968292.png"},
+    {name: "React", level: 90, category: "frontend", logo: "/Images/molecule_10285707.png"},
+    {name: "Redux", level: 70, category: "frontend", logo: "/Images/Redux.png"},
+    {name: "Next.js", level: 70, category: "frontend", logo: "/Images/icons8-next.js-144.png"},
+    {name: "Tailwind CSS", level: 90, category: "frontend", logo: "/Images/Tailwind CSS.png"},
+    {name: "Typescript", level: 70, category: "frontend", logo: "/Images/typescript_5968381.png"},
+    {name: "Vite", level: 80, category: "frontend", logo: "/Images/Vite.js.png"},
 
-    {name: "Node.js", level: 90, category: "backend", logo: "src/assets/programing_15484303.png"},
-    {name: "Express.js", level: 80, category: "backend", logo: "src/assets/icons8-express-js-500.png"},
-    {name: "MongoDB", level: 75, category: "backend", logo: "src/assets/MongoDB.png"},
-    {name: "Java", level: 80, category: "backend", logo: "src/assets/Java.png"},
+    {name: "Node.js", level: 90, category: "backend", logo: "/Images/programing_15484303.png"},
+    {name: "Express.js", level: 80, category: "backend", logo: "/Images/icons8-express-js-500.png"},
+    {name: "MongoDB", level: 75, category: "backend", logo: "/Images/MongoDB.png"},
+    {name: "Java", level: 80, category: "backend", logo: "/Images/Java.png"},
 
-    {name: "Git/Github", level: 80, category: "tools", logo: "src/assets/Git.png"},
-    {name: "VS Code", level: 90, category: "tools", logo: "src/assets/Visual Studio Code (VS Code).png"},
-    {name: "Postman", level: 70, category: "tools", logo: "src/assets/Postman.png"},
-    {name: "Figma", level: 80, category: "tools", logo: "src/assets/Figma.png"},
+    {name: "Git/Github", level: 80, category: "tools", logo: "/Images/Git.png"},
+    {name: "VS Code", level: 90, category: "tools", logo: "/Images/Visual Studio Code (VS Code).png"},
+    {name: "Postman", level: 70, category: "tools", logo: "/Images/Postman.png"},
+    {name: "Figma", level: 80, category: "tools", logo: "/Images/Figma.png"},
 ]
 
 const categories = ["all", "frontend", "backend", "tools"]
