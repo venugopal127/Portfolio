@@ -10,13 +10,13 @@ const skills = [
     {name: "Javascript", level: 95, category: "frontend", logo: "/Images/js_5968292.png"},
     {name: "React", level: 90, category: "frontend", logo: "/Images/molecule_10285707.png"},
     {name: "Redux", level: 70, category: "frontend", logo: "/Images/Redux.png"},
-    {name: "Next.js", level: 70, category: "frontend", logo: "/Images/icons8-next.js-144.png"},
+    {name: "Next.js", level: 70, category: "frontend", logo: "/Images/icons8-next.js.svg"},
     {name: "Tailwind CSS", level: 90, category: "frontend", logo: "/Images/Tailwind CSS.png"},
     {name: "Typescript", level: 70, category: "frontend", logo: "/Images/typescript_5968381.png"},
     {name: "Vite", level: 80, category: "frontend", logo: "/Images/Vite.js.png"},
 
     {name: "Node.js", level: 90, category: "backend", logo: "/Images/programing_15484303.png"},
-    {name: "Express.js", level: 80, category: "backend", logo: "/Images/icons8-express-js-500.png"},
+    {name: "Express.js", level: 80, category: "backend", logo: "/Images/icons8-express-js (1).svg"},
     {name: "MongoDB", level: 75, category: "backend", logo: "/Images/MongoDB.png"},
     {name: "Java", level: 80, category: "backend", logo: "/Images/Java.png"},
 
