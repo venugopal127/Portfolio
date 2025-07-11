@@ -17,7 +17,7 @@ const projects = [
     {
         id:2,
         title: "ProductPalace - Product Management",
-        description: "A Next.js-powered admin dashboard designed for seamless business insights and control.",
+        description: "A full-stack MERN application for managing products with CRUD operations, secure auth, and real-time updates.",
         image: "/Projects/ProductPalace.png",
         tags: ["Node.js", "MongoDB","Express.js","PostMan","Tailwind CSS", "React"],
         url: "#",
@@ -27,7 +27,7 @@ const projects = [
     {
         id:3,
         title: "VirtualR - Developer Tools Website",
-        description: "A Next.js-powered admin dashboard designed for seamless business insights and control.",
+        description: "A dynamic and responsive virtual reality showcase built with React, featuring sleek UI and interactive components.",
         image: "/Projects/VirtualR.png",
         tags: [ "Javascript", "Tailwind CSS", "React", "Vite.js"],
         url: "https://virtualr-react.netlify.app/",
@@ -37,7 +37,7 @@ const projects = [
     {
         id:4,
         title: "Work-List - To_do_list web app",
-        description: "A Next.js-powered admin dashboard designed for seamless business insights and control.",
+        description: "A minimalist and intuitive task manager built with React for organizing daily to-dos with real-time updates.",
         image: "/Projects/ToDoList.png",
         tags: ["Javascript", "Tailwind CSS", "React"],
         url: "https://work-todolist.netlify.app/",
@@ -47,7 +47,7 @@ const projects = [
     {
         id:5,
         title: "Grill - Restaurant Landing Page",
-        description: "A Next.js-powered admin dashboard designed for seamless business insights and control.",
+        description: "A visually appealing and responsive restaurant landing page built using pure HTML and CSS.",
         image: "/Projects/Grill.png",
         tags: [ "Javascript", "CSS", "HTML"],
         url: "#",
