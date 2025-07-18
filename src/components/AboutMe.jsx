@@ -22,17 +22,17 @@ export const AboutMe = () => {
                     <h3 className="text-2xl font-semibold">Aspiring Software Engineer & Full Stack Web Dev</h3>
 
                     <p className="text-muted-foreground md:text-left">
+                        🎓 Currently in my 4th year of B.Tech (CSBS) at Medi-Caps University, Indore,
                         With over 1.5 years of hands-on experience in full-stack web development,
                         I specialize in building fast, responsive, and user-centric web applications 
-                        using the MERN stack. I’ve delivered scalable front-end interfaces with 
-                        React.js and Tailwind CSS, while integrating efficient back-end logic 
-                        with Node.js, Express.js, and MongoDB.
+                        using the MERN stack.
                     </p>
 
                     <p className="text-muted-foreground md:text-left">
-                        I’m passionate about transforming business requirements into 
-                        functional digital solutions. Continuously exploring UI/UX design 
-                        principles and modern frameworks, I aim to create intuitive and 
+                        I’ve delivered scalable front-end interfaces with 
+                        React.js and Tailwind CSS, while integrating efficient back-end logic 
+                        with Node.js, Express.js, and MongoDB. I’m passionate about transforming business requirements into 
+                        functional digital solutions. I aim to create intuitive and 
                         accessible user experiences that align with current industry standards.
                     </p>
 
